@@ -1,2 +1,2 @@
-# PRODIGY_FS_3
+# FS_3
 localstore E-commerce platform
